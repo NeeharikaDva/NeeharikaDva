@@ -1,4 +1,4 @@
-# Hello World!!................🥳🥳🥳……..
+# Hello World!!................🤗🤗🤗……..
 I am a GCP Certified Professional Data Engineer😁.
 → Data Engineering and Data Science enthusiast😊.
 🤗 Graduated from NIT Surat.
@@ -7,7 +7,7 @@ I am a GCP Certified Professional Data Engineer😁.
 I started my career as a Data Engineer in GCP and am now exploring AWS.
 ### I have the Good Knowledge in GCP tools like
 🤗
-→ GCS,
+→ 	GCS,
 →	Bigquery,
 →	Cloud Functions,
 →	Data Proc,
@@ -30,8 +30,8 @@ Worked with many python libraries, like
 
 🙂Aiming to explore  many skills related to Data Engineering and Data science.
 ### Have good technical Knowledge in Big Data tools like 
-      → Apache spark,
-	    → Apache Hadoop, 
-	    → Apache Kafka, 
-	    → Apache Zookeeper, 
+      	→ Apache spark,
+	→ Apache Hadoop, 
+	→ Apache Kafka, 
+	→ Apache Zookeeper, 
      	→ Apache Hive. 
